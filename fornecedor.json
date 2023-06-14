@@ -3,52 +3,9 @@
     {
       "id": 1,
       "name": "andré",
-      "active": true,
-      "category": "Internacional",
-      "contact": "celular"
-    },
-    {
-      "id": 2,
-      "name": "andré",
-      "atividadeFatura": false,
-      "atividadePedidoCompra": false,
-      "atividadePagamento": false,
       "category": "Nacional",
-      "contact": "celular"
-    },
-    {
-      "id": 3,
-      "name": null,
-      "atividadeFatura": null,
-      "atividadePedidoCompra": null,
-      "atividadePagamento": null,
-      "category": null,
-      "contact": null
-    },
-    {
-      "id": 4,
-      "name": "andré",
-      "atividadeFatura": null,
-      "atividadePedidoCompra": null,
-      "atividadePagamento": null,
-      "category": "Internacional",
-      "contact": "celular"
-    },
-    {
-      "id": 5,
-      "name": "andré",
-      "atividadeFatura": true,
-      "atividadePedidoCompra": true,
-      "atividadePagamento": false,
-      "category": "Nacional",
-      "contact": "celular"
-    },
-    {
-      "id": 6,
-      "name": "andré",
-      "active": true,
-      "category": "Nacional",
-      "contact": "celular"
+      "contact": "celular",
+      "active": "virtudes"
     }
   ]
 }

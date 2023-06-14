@@ -1,7 +1,7 @@
 export interface Fornecedor {
-  id: number,
-  name: string,
-  active: boolean,
-  category: string,
-  contact: string
+  id: number;
+  name: string;
+  active: boolean;
+  category: string;
+  contact: string;
 }

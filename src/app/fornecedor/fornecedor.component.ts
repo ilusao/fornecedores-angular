@@ -21,7 +21,7 @@ export class FornecedorComponent implements OnInit {
        this.formgrupfornecedor = formBuilder.group({
          id : [''],
          name : [''],
-         active: [false],
+         active: [''],
          category : [''],
          contact : ['']
 
