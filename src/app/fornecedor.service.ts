@@ -8,7 +8,7 @@ import { Observable } from 'rxjs/internal/Observable';
 })
 export class FornecedorService {
 
-  url = "http://localhost:3000/fornecedor";
+  url = "http://localhost:8080/fornecedores";
 
   constructor(private http : HttpClient) { }
 
